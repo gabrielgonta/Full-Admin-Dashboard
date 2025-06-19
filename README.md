@@ -45,15 +45,15 @@ By default, the application runs on http://localhost:5173 :
 
 ## Features
 
-✅ Kanban Board – Drag-and-drop task management
-✅ Advanced Data Tables – With sorting, filtering, pagination, and export
-✅ Real-Time Chat – Messaging, file uploads, notifications
-✅ Charts & Analytics – Built with Recharts
-✅ Calendar View – Interactive scheduling with FullCalendar
-✅ User Management – Roles, permissions, and profiles
-✅ Product Management – Categories, product listings, and CRUD operations
-✅ Light/Dark Mode – Built-in theming support
-✅ Responsive Design – Mobile-first and fully adaptive
+        ✅ Kanban Board – Drag-and-drop task management
+        ✅ Advanced Data Tables – With sorting, filtering, pagination, and export
+        ✅ Real-Time Chat – Messaging, file uploads, notifications
+        ✅ Charts & Analytics – Built with Recharts
+        ✅ Calendar View – Interactive scheduling with FullCalendar
+        ✅ User Management – Roles, permissions, and profiles
+        ✅ Product Management – Categories, product listings, and CRUD operations
+        ✅ Light/Dark Mode – Built-in theming support
+        ✅ Responsive Design – Mobile-first and fully adaptive
 
 ## TechStack
 
@@ -71,10 +71,10 @@ By default, the application runs on http://localhost:5173 :
 
 This dashboard can serve as a base for:
 
-🗂 Project management tools
-🛒 E-commerce admin panels
-📰 Content management systems (CMS)
-📊 Internal business analytics tools
+        🗂 Project management tools
+        🛒 E-commerce admin panels
+        📰 Content management systems (CMS)
+        📊 Internal business analytics tools
 
 ## Future Scope
 
